@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=ATIVIDADE+GAME+ZONE+RETRO+🎮)](https://git.io/typing-svg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Nessa atividade, foi solicitado o desenvolvimento de uma página web temática para a loja **GameZone Retro**, apresentando produtos, preços e consoles clássicos a partir dos ensinamentos da aula de Linguagem de marcação.
----
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ### Ferramentas 🛠️
 
@@ -31,9 +33,9 @@ Nessa atividade, foi solicitado o desenvolvimento de uma página web temática p
 ---
 
 ### Autora 
-- Maria Eduarda Vieira
+- Maria Eduarda Vieira👩‍💻
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data: 21/09/2026
 
 **Turma:** 1ID-DS
